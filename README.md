@@ -23,8 +23,3 @@ An Online Voting System is a secure, web-based platform enabling users to partic
 •   Voter Management: Secure registration, verification, and prevention of duplicate voting.
 
 
-### SCREENSHOT
-
-
-![Screenshot (7)](https://github.com/abirami-offl/online_voting/assets/152076823/bb10b7c9-8f3f-44da-97e4-53c9341b71b6)
-
